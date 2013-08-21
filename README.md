@@ -1,2 +1,11 @@
+## Scala Error Handling
 
-A basic sbt file, I use to generate IntelliJ projects for Scala
+
+Practicing Scala Error Handling with
+
+1. Option
+2. Either
+3. Try
+4. try/catch
+5. Exceptions
+
